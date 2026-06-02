@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Void 👋
 
-<!--
-**space-void15/space-void15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student majoring in **Artificial Intelligence**, building at the intersection of slick frontend design and intelligent backend logic. I love taking complex AI models and wrapping them in clean, highly interactive user experiences that live on the web. 
 
-Here are some ideas to get you started:
+When I'm not tweaking a layout or writing queries, I’m usually building custom digital experiences, working out, or exploring scalable cloud architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Design** | HTML5, CSS3, JavaScript (ES6+), UI/UX Layouts |
+| **AI & Core Focus** | AI Model Integration, Intelligent Apps, Python |
+| **Databases & Backend** | SQL, PL/SQL, Supabase, PostgreSQL |
+| **Tools & Platforms** | Git, GitHub, Cloud Storage System Configs |
+
+---
+
+### 🚀 What I'm Cooking Up
+
+- 🤖 **Smart Interfaces:** Bridging the gap between raw AI models and beautiful, responsive web design.
+- 📊 **Database Architecture:** Structuring clean, optimized PL/SQL workflows and backend data streams.
+- 🎨 **Creative Coding:** Designing interactive web components that look sharp and feel seamless.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=space-void15&show_icons=true&theme=tokyonight" alt="Void's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=space-void15&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+---
+<p align="center"><i>"Bringing AI models to life with sharp, intentional frontend design."</i></p>
