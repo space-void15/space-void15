@@ -24,4 +24,3 @@ When I'm not tweaking a layout or writing queries, I’m usually building custom
 - **Creative Coding:** Designing interactive web components that look sharp and feel seamless.
 
 ---
-<p align="center"><i>"Bringing AI models to life with sharp, intentional frontend design."</i></p>
